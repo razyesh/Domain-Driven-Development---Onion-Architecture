@@ -1,0 +1,4 @@
+{'id_': UUID('873ef61e-b393-11eb-9b22-acde48001122'), 'name': '1', 'school': UUID('873ecee6-b393-11eb-9b22-acde48001122')}
+{'id_': UUID('4cc4b1f4-b3a2-11eb-86b8-acde48001122'), 'name': '1', 'school': UUID('4cc472a2-b3a2-11eb-86b8-acde48001122')}
+{'id_': UUID('8641f158-b3a2-11eb-868e-acde48001122'), 'name': '1', 'school': UUID('8641af90-b3a2-11eb-868e-acde48001122')}
+{'id_': UUID('92a41c5a-b3a2-11eb-a43f-acde48001122'), 'name': '1', 'school': UUID('92a3e9ec-b3a2-11eb-a43f-acde48001122')}

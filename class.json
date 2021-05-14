@@ -1,0 +1,4 @@
+{'id_': UUID('873f1126-b393-11eb-9b22-acde48001122'), 'sections': {UUID('873ed49a-b393-11eb-9b22-acde48001122')}, 'grade': UUID('873ed3b4-b393-11eb-9b22-acde48001122'), 'school': UUID('873ecee6-b393-11eb-9b22-acde48001122')}
+{'id_': UUID('4cc4e872-b3a2-11eb-86b8-acde48001122'), 'sections': {UUID('4cc4777a-b3a2-11eb-86b8-acde48001122')}, 'grade': UUID('4cc47716-b3a2-11eb-86b8-acde48001122'), 'school': UUID('4cc472a2-b3a2-11eb-86b8-acde48001122')}
+{'id_': UUID('86423384-b3a2-11eb-868e-acde48001122'), 'sections': {UUID('8641b206-b3a2-11eb-868e-acde48001122')}, 'grade': UUID('8641b1c0-b3a2-11eb-868e-acde48001122'), 'school': UUID('8641af90-b3a2-11eb-868e-acde48001122')}
+{'id_': UUID('92a44cb6-b3a2-11eb-a43f-acde48001122'), 'sections': {UUID('92a3ed3e-b3a2-11eb-a43f-acde48001122')}, 'grade': UUID('92a3ecda-b3a2-11eb-a43f-acde48001122'), 'school': UUID('92a3e9ec-b3a2-11eb-a43f-acde48001122')}
